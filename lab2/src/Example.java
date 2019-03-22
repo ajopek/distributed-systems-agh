@@ -1,4 +1,4 @@
-public class Main {
+public class Example {
     public static void main(String[] args) {
         DistributedMap map = new DistributedMap();
         Client client = new Client(map);
